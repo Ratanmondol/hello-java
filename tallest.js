@@ -11,9 +11,6 @@ function maxInArry(numbers) {
     return largest;
 }
 
-Const weight[23, 56, 76];
-
-
 const hieght = [11, 545, 26, 78, 45];
 const tallest = maxInArry(hieght);
 
